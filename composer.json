@@ -1,6 +1,7 @@
 {
     "require": {
         "jpgraph/jpgraph": "^4.0",
-        "spipu/html2pdf": "^5.0"
+        "spipu/html2pdf": "^5.0",
+        "fzaninotto/faker": "^1.7"
     }
 }
