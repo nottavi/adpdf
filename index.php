@@ -42,7 +42,7 @@ th {
 }
 
 </style>
-<page orientation='P' format='A4' backtop="36px" backbottom="17mm" backleft="0" backright="0">
+<page orientation='P' format='A4' backtop="50px" backbottom="17mm" backleft="0" backright="0">
 <page_header backcolor="#eeeeee">
 <table style="border:none;">
 <tr class="header">
@@ -54,6 +54,10 @@ th {
 <h1>Vos résultats</h1>
 <table>
 <tr>
+<td class="even" style="text-align:center;"><strong>Chauffeur-livreur</strong></td>
+<td class="even" style="text-align:center;"><strong>Ambulancier</strong></td>
+</tr>
+<tr>
 <td style="width:50%; text-align:center;">
 <img src="http://chart.googleapis.com/chart?cht=bvg&chs=350x350&chd=t:40,70,30&chxt=x,y&chxs=0,ff0000,12,0,lt|1,0000ff,10,1,lt&chco=1f5da2|6912a0|ec680c&chdl=Savoir-faire%20techniques|Savoirs|Savoir-faire%20organisationnels" />
 </td>
@@ -62,9 +66,10 @@ th {
 </td>
 </tr>
 <tr>
-<td class="even" style="text-align:center;"><strong>Chauffeur-livreur</strong></td>
-<td class="even" style="text-align:center;"><strong>Ambulancier</strong></td>
+<td class="even" style="text-align:center;">Vous maîtrisez <strong>87%</strong> du métier <strong>Chauffeur-livreur</strong></td>
+<td class="even" style="text-align:center;">Vous maîtrisez <strong>87%</strong> du métier <strong>Ambulancier</strong></td>
 </tr>
+
 </table>
 
 <hr/>
@@ -72,7 +77,7 @@ th {
 <p>&nbsp;</p>
 <table>
 <tr>
-<td style="width:60%;background-color:#1f5da2;">60%</td>
+<td style="width:60%;background-color:#1f5da2;color:#fff"><strong><i>60%</i></strong></td>
 <td style="width:40%;background-color:#f00;">&nbsp;</td>
 </tr>
 </table>
